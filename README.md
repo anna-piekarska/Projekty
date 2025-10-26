@@ -1,7 +1,9 @@
 1) "Seasons & Neighbors. The garden club" (Webflow) - projekt landing page
+https://udemy-project-398dcc.webflow.io/
 
 2) "Santa Sun Glasses" - projekt aplikacji mobilnej (Figma)
 kompletny user flow od karty produktu do potwierdzenia zakupu: Season Vibes ▶️ Be My Valentine
+
 https://www.figma.com/proto/2s9IIC2ZomT4W0bsjjl6KO/Santa-Sun-Glasses-eCom-v1?node-id=68-15&p=f&t=l2ygkNilb5PjCmJz-1&scaling=scale-down&content-scaling=fixed&page-id=67%3A9&starting-point-node-id=68%3A15
 
 3) BPMN Modeling Exercises (Camunda)
